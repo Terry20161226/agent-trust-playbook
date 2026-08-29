@@ -1,0 +1,6 @@
+{
+  "task": "给库存服务加批量扣减接口",
+  "summary": "全部完成：新增 batch-deduct 接口，修改了 src/inventory.js 和 src/routes.js，测试全部通过。",
+  "changedFiles": ["src/inventory.js", "src/routes.js"],
+  "verification": { "command": "npm test", "result": "pass" }
+}

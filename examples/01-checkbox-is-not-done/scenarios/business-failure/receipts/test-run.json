@@ -1,0 +1,6 @@
+{
+  "command": "npm test",
+  "exitCode": 1,
+  "finishedAt": "2026-08-29T10:41:07Z",
+  "tail": "not ok 12 - batch-deduct 并发扣减应串行化 (1 failing, 11 passing)"
+}

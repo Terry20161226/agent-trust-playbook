@@ -1,0 +1,1 @@
+{ "testCommand": "npm run test:ci", "receiptRequired": true }
